@@ -1,6 +1,6 @@
-An AI-powered chatbot built with Node.js + TypeScript + MongoDB, integrated with OpenAI API to provide intelligent, context-aware answers.
+### An AI-powered chatbot built with Node.js + TypeScript + MongoDB, integrated with OpenAI API to provide intelligent, context-aware answers.
 
-Um chatbot com IA desenvolvido em Node.js + TypeScript + MongoDB, integrado à API da OpenAI, para fornecer respostas inteligentes e contextuais.
+### Um chatbot com IA desenvolvido em Node.js + TypeScript + MongoDB, integrado à API da OpenAI, para fornecer respostas inteligentes e contextuais.
 
 ✨ Features | Funcionalidades
 
@@ -46,7 +46,9 @@ npm install
 cp .env.example .env
 
 
-Edit .env with your credentials | Edite com suas credenciais:
+
+
+## Edit .env with your credentials | Edite com suas credenciais:  ###
 
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/ai-support-bot
@@ -56,7 +58,7 @@ OPENAI_API_KEY=your_openai_key_here
 
 Development | Desenvolvimento
 
-npm run dev
+## npm run dev
 
 
 Production | Produção
